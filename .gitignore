@@ -119,3 +119,6 @@ venv.bak/
 
 # IDEs
 .idea
+
+# Don't track results
+results
