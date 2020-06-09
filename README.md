@@ -1,3 +1,13 @@
+<div align="center">    
+ 
+# Lipschitz standardization
+
+[![Paper](http://img.shields.io/badge/paper-arxiv.2002.11369-B31B1B.svg)](https://arxiv.org/abs/2002.11369)
+
+</div>
+
+This repository contains an implementation of the paper [Lipschitz standardization for multivariate learning](https://arxiv.org/abs/2002.11369). The implementation is mostly based on [Pytorch](https://pytorch.org/) and [Ignite](https://pytorch.org/ignite/) and the repository is self-contained, meaning that it includes the list of dependencies, code, and datasets needed to run the experiments of the paper.
+
 ## How to run the code
 
 Everything needed to run the experiments shown in the paper is contained in the script `main.py`. 
